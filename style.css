@@ -1066,6 +1066,9 @@ td.text-right {
 .deilikabann {
   background-repeat: no-repeat;
   background-size: cover ;
+  overflow: hidden;
+  height: 500px;
+  object-fit: contain;
 }
 
 
